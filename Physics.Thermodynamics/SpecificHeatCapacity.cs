@@ -1,8 +1,8 @@
-namespace ktsu.io.Physics.Thermodynamics;
+namespace ktsu.Physics.Thermodynamics;
 
 using System.Numerics;
-using ktsu.io.PhysicalQuantity;
-using ktsu.io.PhysicalQuantity.Generic;
+using ktsu.PhysicalQuantity;
+using ktsu.PhysicalQuantity.Generic;
 
 /// <summary>
 /// Represents a specific heat capacity quantity measured in joules per kelvin per kilogram.

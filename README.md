@@ -1,1 +1,1 @@
-# ktsu.io.Physics.Thermodynamics
+# ktsu.Physics.Thermodynamics
