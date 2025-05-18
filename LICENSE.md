@@ -1,6 +1,6 @@
 MIT License
 
-https://github.com/ktsu-dev/ktsu-dev/Physics.Thermodynamics
+https://github.com/ktsu-dev/Physics.Thermodynamics
 
 Copyright (c) 2023-2025 ktsu-dev
 
